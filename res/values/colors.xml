@@ -43,7 +43,7 @@
     <color name="clock_white">#ffffff</color>
     <color name="clock_gray">#B3ffffff</color>
 
-    <color name="default_background">#1A237E</color>
+    <color name="default_background">#786b22</color>
     <color name="status_bar">#66000000</color>
 
     <color name="time_picker_gray">#212121</color>
